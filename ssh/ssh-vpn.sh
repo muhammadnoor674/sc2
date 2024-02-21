@@ -465,7 +465,7 @@ wget -O trmenu "https://raw.githubusercontent.com/muhammadnoor674/sc2/main/updat
 wget -O trgomenu "https://raw.githubusercontent.com/muhammadnoor674/sc2/main/update/trgomenu.sh"
 wget -O setmenu "https://raw.githubusercontent.com/muhammadnoor674/sc2/main/update/setmenu.sh"
 wget -O running "https://raw.githubusercontent.com/muhammadnoor674/sc2/main/update/running.sh"
-wget -O cekxray "https://raw.githubusercontent.com/muhammadnoor674/sc2/main/cekxray.sh"
+wget -O cekxray "https://raw.githubusercontent.com/muhammadnoor674/sc2/main/xray/cekv2ray.sh"
 
 chmod +x portsshnontls
 chmod +x portsshws
