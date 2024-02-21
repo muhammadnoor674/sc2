@@ -32,7 +32,7 @@ clear
 # By Nyari Gratisan
 # ==================================================
 # Link Hosting Kalian
-akbarvpn="raw.githubusercontent.com/myridwan/sc/ipuk/ssh"
+akbarvpn="raw.githubusercontent.com/muhammadnoor674/sc2/ipuk/ssh"
 
 # initialisasi var
 export DEBIAN_FRONTEND=noninteractive
